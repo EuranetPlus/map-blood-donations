@@ -1,13 +1,14 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kur ES ir asins trūkums?",
+  "subtitle": "2023. gadā visā ES 27 tika savākti aptuveni 16,5 miljoni pilnasins vienību, un Vācija ziņoja par vislielāko skaitu — 3,7 miljoniem, kam sekoja Itālija, Francija un Spānija. Starp valstīm ar lielāku iedzīvotāju skaitu Bulgārijā un Somijā tika reģistrēti vieni no zemākajiem rādītājiem, abās zem 0,2 miljoniem vienību.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šajā kartē ir attēlots kopējais donoru skaits (ieskaitot pirmreizējos donorus), kuri vismaz reizi gadā ziedojuši pilnasins vai aferēzes komponentus pārliešanai. Tas nozīmē, ka viena un tā pati persona varēja ziedot asinis vairāk nekā vienu reizi.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Zāļu un veselības aprūpes kvalitātes direktorāts",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_IE": "Dati no 2022. gada",
+  "extraInfo_LU": "Dati no 2022. gada",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "miljons savākto pilnasins vienību",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
