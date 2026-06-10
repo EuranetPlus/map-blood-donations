@@ -1,13 +1,14 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "In quali aree dell'UE si registra carenza di sangue?",
+  "subtitle": "Nel 2023, nell'UE27 sono state raccolte circa 16,5 milioni di unità di sangue intero, con la Germania che ha registrato il numero più alto con 3,7 milioni, seguita da Italia, Francia e Spagna. Tra i paesi con una popolazione maggiore, Bulgaria e Finlandia hanno registrato alcuni dei dati più bassi, entrambi inferiori a 0,2 milioni di unità.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Questa mappa rappresenta il numero totale di donatori (inclusi i donatori alla prima donazione) che hanno donato sangue intero o componenti da aferesi per trasfusione almeno una volta all'anno. Ciò significa che la stessa persona potrebbe aver donato più di una volta.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Direzione europea per la qualità dei medicinali e dell'assistenza sanitaria",
+  "linkDataAccessDescription": "Accedere ai dati",
+  "extraInfo_IE": "Dati del 2022",
+  "extraInfo_LU": "Dati del 2022",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "milioni di unità di sangue intero raccolte",
   "tooltipExtraInfoLabel": "clicca qui"
 }
