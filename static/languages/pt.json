@@ -1,13 +1,14 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Onde há escassez de sangue na UE?",
+  "subtitle": "Em 2023, foram coletadas cerca de 16,5 milhões de unidades de sangue total nos 27 países da UE, com a Alemanha registrando o maior número, com 3,7 milhões, seguida pela Itália, França e Espanha. Entre os países com populações maiores, a Bulgária e a Finlândia registraram alguns dos números mais baixos, ambos abaixo de 0,2 milhão de unidades.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Este mapa representa o número total de doadores (incluindo doadores de primeira vez) que doaram sangue total ou componentes de aférese para transfusão pelo menos uma vez por ano. Isso significa que a mesma pessoa pode ter doado mais de uma vez.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Direção Europeia para a Qualidade dos Medicamentos e dos Cuidados de Saúde",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "extraInfo_IE": "Dados de 2022",
+  "extraInfo_LU": "Dados de 2022",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "milhões de unidades de sangue total coletadas",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
