@@ -1,13 +1,14 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Où observe-t-on une pénurie de sang dans l'UE ?",
+  "subtitle": "En 2023, environ 16,5 millions d'unités de sang total ont été collectées dans l'UE-27, l'Allemagne enregistrant le chiffre le plus élevé avec 3,7 millions d'unités, suivie de l'Italie, de la France et de l'Espagne. Parmi les pays les plus peuplés, la Bulgarie et la Finlande ont enregistré des chiffres parmi les plus bas, tous deux inférieurs à 0,2 million d'unités.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Cette carte représente le nombre total de donneurs (y compris les nouveaux donneurs) ayant donné du sang total ou des composants d'aphérèse pour transfusion au moins une fois par an. Une même personne peut donc avoir donné plusieurs fois.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Direction européenne de la qualité des médicaments et des soins de santé",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_IE": "Données de 2022",
+  "extraInfo_LU": "Données de 2022",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "millions d'unités de sang total collectées",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
