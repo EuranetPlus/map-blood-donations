@@ -1,13 +1,14 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wo herrscht in der EU Blutknappheit?",
+  "subtitle": "Im Jahr 2023 wurden in der EU-27 rund 16,5 Millionen Vollblutkonserven gesammelt. Deutschland verzeichnete mit 3,7 Millionen die höchste Zahl, gefolgt von Italien, Frankreich und Spanien. Unter den bevölkerungsreichen Ländern wiesen Bulgarien und Finnland mit jeweils unter 0,2 Millionen Konserven einige der niedrigsten Werte auf.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Diese Karte zeigt die Gesamtzahl der Spender (einschließlich Erstspender), die mindestens einmal jährlich Vollblut oder Apherese-Komponenten für eine Transfusion gespendet haben. Das bedeutet, dass dieselbe Person auch mehrfach gespendet haben kann.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Europäische Direktion für die Qualität von Arzneimitteln und Gesundheitsversorgung",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "extraInfo_IE": "Daten aus dem Jahr 2022",
+  "extraInfo_LU": "Daten aus dem Jahr 2022",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "Millionen gesammelte Vollblutkonserven",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
