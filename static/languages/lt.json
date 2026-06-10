@@ -1,13 +1,14 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kur ES trūksta kraujo?",
+  "subtitle": "2023 m. visoje ES 27 buvo surinkta apie 16,5 mln. viso kraujo vienetų. Didžiausią skaičių – 3,7 mln. – pranešė Vokietija, po jos sekė Italija, Prancūzija ir Ispanija. Tarp šalių, kuriose gyventojų skaičius didesnis, Bulgarijoje ir Suomijoje užfiksuoti vieni mažiausių rodiklių – abiejose surinkta mažiau nei 0,2 mln. vienetų.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šiame žemėlapyje parodytas bendras donorų (įskaitant pirmą kartą duodančius kraujo donorus), kurie bent kartą per metus paaukojo viso kraujo arba aferezės komponentų perpylimui, skaičius. Tai reiškia, kad tas pats asmuo galėjo paaukoti daugiau nei vieną kartą.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Europos vaistų ir sveikatos priežiūros kokybės direktoratas",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_IE": "2022 m. duomenys",
+  "extraInfo_LU": "2022 m. duomenys",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "surinkta milijonas viso kraujo vienetų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
