@@ -1,13 +1,14 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Gdje je u EU nestašica krvi?",
+  "subtitle": "U 2023. godini prikupljeno je oko 16,5 milijuna jedinica pune krvi diljem EU27, pri čemu je Njemačka prijavila najveći broj s 3,7 milijuna, a slijede Italija, Francuska i Španjolska. Među zemljama s većim stanovništvom, Bugarska i Finska zabilježile su neke od najnižih brojki, obje ispod 0,2 milijuna jedinica.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Ova karta prikazuje ukupan broj darivatelja (uključujući darivatelje prvog dana) koji su darovali punu krv ili komponente krvi dobivene aferezom za transfuziju barem jednom godišnje. To znači da je ista osoba mogla darovati više puta.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Europski direktorat za kvalitetu lijekova i zdravstvene zaštite",
+  "linkDataAccessDescription": "Pristup podacima",
+  "extraInfo_IE": "Podaci iz 2022.",
+  "extraInfo_LU": "Podaci iz 2022.",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "milijun prikupljenih jedinica pune krvi",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
