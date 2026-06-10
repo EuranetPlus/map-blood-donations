@@ -1,13 +1,14 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Waar is er een tekort aan bloed in de EU?",
+  "subtitle": "In 2023 werden er in de EU27 ongeveer 16,5 miljoen eenheden volbloed ingezameld. Duitsland registreerde het hoogste aantal met 3,7 miljoen, gevolgd door Italië, Frankrijk en Spanje. Onder de landen met een grotere bevolking noteerden Bulgarije en Finland enkele van de laagste aantallen, beide onder de 0,2 miljoen eenheden.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Deze kaart toont het totale aantal donoren (inclusief eersttijdige donoren) die minstens één keer per jaar volbloed of aferesecomponenten voor transfusie hebben gedoneerd. Dit betekent dat dezelfde persoon meer dan eens gedoneerd kan hebben.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees directoraat voor de kwaliteit van geneesmiddelen en gezondheidszorg",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_IE": "Gegevens uit 2022",
+  "extraInfo_LU": "Gegevens uit 2022",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "miljoen volbloedeenheden verzameld",
   "tooltipExtraInfoLabel": "Klik hier"
 }
