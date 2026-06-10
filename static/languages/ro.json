@@ -1,13 +1,14 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Unde este deficitul de sânge în UE?",
+  "subtitle": "În 2023, aproximativ 16,5 milioane de unități de sânge integral au fost colectate în UE-27, Germania raportând cel mai mare număr, de 3,7 milioane, urmată de Italia, Franța și Spania. Printre țările cu populații mai mari, Bulgaria și Finlanda au înregistrat unele dintre cele mai mici cifre, ambele sub 0,2 milioane de unități.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Această hartă reprezintă numărul total de donatori (inclusiv primii donatori) care au donat sânge integral sau componente de afereză pentru transfuzie cel puțin o dată pe an. Aceasta înseamnă că aceeași persoană ar fi putut dona de mai multe ori.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Direcția Europeană pentru Calitatea Medicamentelor și Asistenței Medicale",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_IE": "Date din 2022",
+  "extraInfo_LU": "Date din 2022",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "milioane de unități de sânge integral colectate",
   "tooltipExtraInfoLabel": "Click aici"
 }
