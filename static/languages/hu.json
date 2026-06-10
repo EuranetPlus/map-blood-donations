@@ -1,13 +1,14 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hol van a vérhiány az EU-ban?",
+  "subtitle": "2023-ban körülbelül 16,5 millió teljes véregységet gyűjtöttek az EU27-ben, Németországban jelentették a legmagasabb számot, 3,7 milliót, ezt követte Olaszország, Franciaország és Spanyolország. A nagyobb népességű országok közül Bulgáriában és Finnországban jegyezték a legalacsonyabb számokat, mindkettőben 0,2 millió egység alatt.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Ez a térkép az összes donor számát mutatja (beleértve az első donorokat is), akik évente legalább egyszer teljes vért vagy aferézis komponenseket adtak transzfúzióhoz. Ez azt jelenti, hogy ugyanaz a személy többször is adhatott vért.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Európai Gyógyszerminőségi és Egészségügyi Igazgatóság",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "extraInfo_IE": "2022-es adatok",
+  "extraInfo_LU": "2022-es adatok",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "millió teljes véregységet gyűjtöttek",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
