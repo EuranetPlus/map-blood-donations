@@ -1,13 +1,14 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Var är blodbristen i EU?",
+  "subtitle": "År 2023 samlades cirka 16,5 miljoner helblodsenheter in i EU27, där Tyskland rapporterade det högsta antalet med 3,7 miljoner, följt av Italien, Frankrike och Spanien. Bland länder med större befolkningar registrerade Bulgarien och Finland några av de lägsta siffrorna, båda under 0,2 miljoner enheter.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna karta visar det totala antalet givare (inklusive förstagångsgivare) som donerat helblod eller afereskomponenter för transfusion minst en gång om året. Det betyder att samma person kan ha donerat mer än en gång.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Europeiska direktoratet för läkemedelskvalitet och hälso- och sjukvård",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_IE": "Data från 2022",
+  "extraInfo_LU": "Data från 2022",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "miljoner insamlade helblodsenheter",
   "tooltipExtraInfoLabel": "Klicka här"
 }
