@@ -1,13 +1,14 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Kde je v EÚ nedostatok krvi?",
+  "subtitle": "V roku 2023 sa v EÚ-27 odobralo približne 16,5 milióna jednotiek plnej krvi, pričom najvyšší počet hlásilo Nemecko s 3,7 milióna, nasledované Talianskom, Francúzskom a Španielskom. Spomedzi krajín s väčšou populáciou zaznamenali Bulharsko a Fínsko jedny z najnižších čísel, obe pod 0,2 milióna jednotiek.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Táto mapa predstavuje celkový počet darcov (vrátane prvodarcov), ktorí darovali plnú krv alebo aferézne zložky na transfúziu aspoň raz ročne. To znamená, že tá istá osoba mohla darovať viackrát.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Európske riaditeľstvo pre kvalitu liekov a zdravotnej starostlivosti",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
+  "extraInfo_IE": "Údaje z roku 2022",
+  "extraInfo_LU": "Údaje z roku 2022",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "milión odobratých jednotiek plnej krvi",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
