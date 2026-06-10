@@ -1,13 +1,14 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kje v EU primanjkuje krvi?",
+  "subtitle": "Leta 2023 je bilo v EU-27 zbranih približno 16,5 milijona enot polne krvi, pri čemer je Nemčija poročala o največjem številu, in sicer 3,7 milijona, sledile pa so ji Italija, Francija in Španija. Med državami z večjim prebivalstvom sta Bolgarija in Finska zabeležili ene najnižjih številk, obe pod 0,2 milijona enot.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Ta zemljevid predstavlja skupno število darovalcev (vključno s tistimi, ki darujejo prvič), ki so vsaj enkrat letno darovali polno kri ali komponente za aferezo za transfuzijo. To pomeni, da je ista oseba lahko darovala večkrat.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Evropski direktorat za kakovost zdravil in zdravstvenega varstva",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "extraInfo_IE": "Podatki iz leta 2022",
+  "extraInfo_LU": "Podatki iz leta 2022",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "milijon zbranih enot polne krvi",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
