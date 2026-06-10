@@ -1,13 +1,14 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cá bhfuil ganntanas fola san AE?",
+  "subtitle": "Sa bhliain 2023, bailíodh thart ar 16.5 milliún aonad fola iomláin ar fud an AE27, agus an Ghearmáin ag tuairisciú an líon is airde ag 3.7 milliún, agus an Iodáil, an Fhrainc agus an Spáinn ina diaidh. I measc na dtíortha a bhfuil daonraí níos mó acu, thaifead an Bhulgáir agus an Fhionlainn cuid de na figiúirí is ísle, faoi bhun 0.2 milliún aonad araon.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Léiríonn an léarscáil seo líon iomlán na ndeontóirí (lena n-áirítear deontóirí céaduaire) a thug fuil iomlán nó comhpháirteanna aifiréise le haghaidh fuilaistriúcháin uair sa bhliain ar a laghad. Ciallaíonn sé sin go bhféadfadh an duine céanna a bheith tar éis fuil a thabhairt níos mó ná uair amháin.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Stiúrthóireacht Eorpach um Cháilíocht Leigheasanna & Cúram Sláinte",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_IE": "Sonraí ó 2022",
+  "extraInfo_LU": "Sonraí ó 2022",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "milliún aonad fola iomlán bailithe",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
