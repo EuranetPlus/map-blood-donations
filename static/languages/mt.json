@@ -1,13 +1,14 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Fejn hi l-iskarsezza tad-demm fl-UE?",
+  "subtitle": "Fl-2023, inġabru madwar 16.5 miljun unità ta’ demm sħiħ madwar l-UE27, bil-Ġermanja tirrapporta l-ogħla numru bi 3.7 miljun, segwita mill-Italja, Franza u Spanja. Fost il-pajjiżi b’popolazzjonijiet akbar, il-Bulgarija u l-Finlandja rreġistraw xi wħud mill-aktar ċifri baxxi, it-tnejn taħt 0.2 miljun unità.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Din il-mappa tirrappreżenta n-numru totali ta’ donaturi (inklużi donaturi għall-ewwel darba) li taw demm sħiħ jew komponenti tal-aferesi għal trasfużjoni mill-inqas darba fis-sena. Dan ifisser li l-istess persuna setgħet tat aktar minn darba.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Direttorat Ewropew għall-Kwalità tal-Mediċini u l-Kura tas-Saħħa",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "extraInfo_IE": "Dejta mill-2022",
+  "extraInfo_LU": "Dejta mill-2022",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "miljun unità ta' demm sħiħ miġbura",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
