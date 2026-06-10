@@ -1,13 +1,14 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Gdzie w UE jest problem niedoboru krwi?",
+  "subtitle": "W 2023 roku w 27 państwach członkowskich UE pobrano około 16,5 miliona jednostek krwi pełnej, przy czym najwięcej – 3,7 miliona – odnotowały Niemcy, a następnie Włochy, Francja i Hiszpania. Wśród krajów o większej populacji Bułgaria i Finlandia odnotowały jedne z najniższych wyników, poniżej 0,2 miliona jednostek.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Ta mapa przedstawia całkowitą liczbę dawców (w tym dawców pierwszorazowych), którzy oddali krew pełną lub składniki aferezy do transfuzji co najmniej raz w roku. Oznacza to, że ta sama osoba mogła oddać krew więcej niż raz.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Europejska Dyrekcja ds. Jakości Leków i Opieki Zdrowotnej",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_IE": "Dane z 2022 r.",
+  "extraInfo_LU": "Dane z 2022 r.",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "zebrano milion jednostek krwi pełnej",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
