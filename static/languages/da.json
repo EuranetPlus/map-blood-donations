@@ -1,13 +1,14 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor er blodmangel i EU?",
+  "subtitle": "I 2023 blev der indsamlet omkring 16,5 millioner fuldblodsprøver i EU27, hvor Tyskland rapporterede det højeste antal med 3,7 millioner, efterfulgt af Italien, Frankrig og Spanien. Blandt lande med større befolkninger registrerede Bulgarien og Finland nogle af de laveste tal, begge under 0,2 millioner enheder.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Dette kort repræsenterer det samlede antal donorer (inklusive førstegangsdonorer), der har doneret fuldblod eller aferesekomponenter til transfusion mindst én gang om året. Det betyder, at den samme person kan have doneret mere end én gang.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Det Europæiske Direktorat for Lægemiddelkvalitet og Sundhedspleje",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "extraInfo_IE": "Data fra 2022",
+  "extraInfo_LU": "Data fra 2022",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "millioner indsamlede fuldblodsenheder",
   "tooltipExtraInfoLabel": "Klik her"
 }
